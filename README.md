@@ -63,4 +63,10 @@ Identify values, strengths. Setup life goals based on the values and strengths.
 
 https://up-for-grabs.net/
 
+https://github.com/up-for-grabs/up-for-grabs.net
+
 ![Up for grabs](upforgrabs.png)
+
+https://goodfirstissues.com/
+
+![Good First](goodfirst.png)
