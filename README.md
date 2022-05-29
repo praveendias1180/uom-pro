@@ -48,3 +48,7 @@ Identify values, strengths. Setup life goals based on the values and strengths.
 ## Strengths
 
 ![Strengths](strengths.png)
+
+# The Creator
+
+![Creator](creator.png)
