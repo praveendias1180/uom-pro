@@ -78,3 +78,5 @@ https://goodfirstissues.com/
 ![Ethics](ethics.png)
 
 https://www.cssl.lk/code-of-conduct/
+
+![Be the change](bethechange.png)
