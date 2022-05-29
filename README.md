@@ -72,3 +72,7 @@ https://goodfirstissues.com/
 ![Good First](goodfirst.png)
 
 ![GSoC](gsoc.png)
+
+# Ethics
+
+![Ethics](ethics.png)
