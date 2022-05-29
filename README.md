@@ -56,3 +56,7 @@ Identify values, strengths. Setup life goals based on the values and strengths.
 # Netweaving
 
 ![Netweaving](netweawing.png)
+
+# Open Source
+
+![License](license.png)
