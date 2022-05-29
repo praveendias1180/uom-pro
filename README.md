@@ -41,4 +41,10 @@ Rookie Smarts: Why Learning Beats Knowing in the New Game of Work
 
 Identify values, strengths. Setup life goals based on the values and strengths.
 
+## Values
+
 ![Values](values.png)
+
+## Strengths
+
+![Strengths](strengths.png)
