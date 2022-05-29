@@ -32,3 +32,11 @@ They themselves will find the answer.
 Rookie Smarts: Why Learning Beats Knowing in the New Game of Work
 
 ![Rookie Effect](rookie-effect.png)
+
+# Personal Branding
+
+- Personal vision
+- The brand
+- Bridges
+
+Identify values, strengths. Setup life goals based on the values and strengths.
