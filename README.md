@@ -76,3 +76,5 @@ https://goodfirstissues.com/
 # Ethics
 
 ![Ethics](ethics.png)
+
+https://www.cssl.lk/code-of-conduct/
