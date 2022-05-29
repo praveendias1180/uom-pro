@@ -11,3 +11,8 @@
 
 - Judge/Learner
 - Protective/Curious
+
+## Asking from the authority
+
+- Challenge?
+- Learn/Explore/Curious
