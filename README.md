@@ -70,3 +70,5 @@ https://github.com/up-for-grabs/up-for-grabs.net
 https://goodfirstissues.com/
 
 ![Good First](goodfirst.png)
+
+![GSoC](gsoc.png)
